@@ -1,0 +1,8 @@
+Test 1:
+
+- As far as I what I can see is that the functions are not attached to a class e.g
+  void BeginPlay() should be void (Class)::BeginPlay() with Super::BeginPlay();
+
+NOTE:
+
+For Test 3 I just recorded a video instead.
